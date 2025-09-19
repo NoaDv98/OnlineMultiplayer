@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9e94d2456582e4144aa6228b9d81ca6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298680
+  packageName: Transform 2D - Anchors, Size, Width/Height, Pixels, Align, Spacing,
+    Guides
+  packageVersion: 0.9.4
+  assetPath: Assets/publish/tools.bnop.transform2d/Editor/Data/T2DSnapping.cs
+  uploadId: 784886

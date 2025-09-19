@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e6190dc849f94221b67fe068750651ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298680
+  packageName: Transform 2D - Anchors, Size, Width/Height, Pixels, Align, Spacing,
+    Guides
+  packageVersion: 0.9.4
+  assetPath: Assets/publish/tools.bnop.transform2d/Editor/Data/T2DObjectBounds.cs
+  uploadId: 784886

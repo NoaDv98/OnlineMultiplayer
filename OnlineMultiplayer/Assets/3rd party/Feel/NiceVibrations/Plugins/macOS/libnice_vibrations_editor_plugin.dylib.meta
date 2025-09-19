@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 279c3792841e74f96b13b007d349facc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.1
+  assetPath: Assets/Feel/NiceVibrations/Plugins/macOS/libnice_vibrations_editor_plugin.dylib
+  uploadId: 709698
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 3
+  iconMap: {}
+  executionOrder: {}
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

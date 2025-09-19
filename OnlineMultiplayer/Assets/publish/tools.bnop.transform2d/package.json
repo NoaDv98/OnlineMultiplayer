@@ -1,0 +1,36 @@
+{
+  "name": "tools.bnop.transform2d",
+  "version": "0.9.4",
+  "displayName": "Transform 2D",
+  "description": "Transform2D augments Unity's Transform interface with essential features commonly found in 2D design software. It saves time, frees up brain cells, and makes layout in 2D scenes natural and effortless.",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://bnop-tools.github.io/transform2d-user-manual/",
+  "licensesUrl": "https://unity.com/legal/as-terms",
+  "keywords": [
+    "2d",
+    "alignment",
+    "bounds",
+    "distribution",
+    "editor tools",
+    "layout",
+    "pixel art",
+    "pixel perfect",
+    "pixels",
+    "position",
+    "size",
+    "snapping",
+    "spacing",
+    "transform",
+    "width/height"
+  ],
+  "dependencies": {
+    "com.unity.settings-manager": "2.0.1",
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "author": {
+    "name": "BNOP",
+    "email": "support@bnop.tools",
+    "url": "https://www.bnop.tools"
+  }
+}

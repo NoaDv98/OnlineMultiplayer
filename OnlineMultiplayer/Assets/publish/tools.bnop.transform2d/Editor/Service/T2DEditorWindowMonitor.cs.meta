@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3ca35b5ba28f421298924cf14502d75c
+timeCreated: 1747658004
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298680
+  packageName: Transform 2D - Anchors, Size, Width/Height, Pixels, Align, Spacing,
+    Guides
+  packageVersion: 0.9.4
+  assetPath: Assets/publish/tools.bnop.transform2d/Editor/Service/T2DEditorWindowMonitor.cs
+  uploadId: 784886
